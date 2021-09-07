@@ -84,3 +84,6 @@ Michael Sandel Lectrues (Harvard): https://www.youtube.com/playlist?list=PL30C13
 Fair Internet: https://www.go-fair.org/go-fair-initiative/vision-and-strategy/
 Intentional, Inspiring: http://www.globehackers.com/blog
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTE5MTcwMjgwXX0=
+-->
