@@ -1,7 +1,7 @@
 # My First Git Site
 
 **Admin**
-https://www.foxbusiness.com/personal-finance/zappos-ceo-will-personal-finance
+[https://www.foxbusiness.com/personal-finance/zappos-ceo-will-personal-finance](https://www.foxbusiness.com/personal-finance/zappos-ceo-will-personal-finance)
 
 **Interesting APIs**
 https://www.bibleserver.com/
@@ -85,5 +85,5 @@ Fair Internet: https://www.go-fair.org/go-fair-initiative/vision-and-strategy/
 Intentional, Inspiring: http://www.globehackers.com/blog
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MTcwMjgwXX0=
+eyJoaXN0b3J5IjpbLTE5MjQ5NzcxNDYsOTE5MTcwMjgwXX0=
 -->
