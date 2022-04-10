@@ -73,7 +73,9 @@ The world’s first portable MRI machine is here: https://www.optimistdaily.com/
 Consilience Project: https://consilienceproject.org/featured/
 Gender / Family / Community (OJC): https://www.ojc.de/medien/buecher/ojc-buecher/gender-mainstreaming/ , https://www.dijg.de/bulletin/13-2007-gender-mainstreaming/ , https://www.dijg.de/gender-mainstreaming/dale-o-leary-agenda-konzept-hintergrund/
 Value of Statistical Life: https://law.vanderbilt.edu/files/archive/267_Labor-Market-Estimates-of-the-Senior-Discount-for-the-Value-of-Statistical-Life.pdf
-EWO Brainstorming: https://docs.google.com/document/d/1JBx38ZILEGl67_wFIKx8FscOYQpiM6vFH-7rqYOcU_I/edit#heading=h.c69mlghbxass
+
+**EWO Brainstorming**
+https://docs.google.com/document/d/1JBx38ZILEGl67_wFIKx8FscOYQpiM6vFH-7rqYOcU_I/edit#heading=h.c69mlghbxass
 Dharma Inquiry: https://civilizationemerging.com/dharma-inquiry/ and https://www.youtube.com/watch?v=Pyy3veuvXVE
 Civilization and the Discontented, talk/interview: https://www.youtube.com/watch?v=7eBWG_DgRAo&feature=youtu.be
 
