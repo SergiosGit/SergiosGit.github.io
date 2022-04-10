@@ -77,7 +77,7 @@ EWO Brainstorming: https://docs.google.com/document/d/1JBx38ZILEGl67_wFIKx8FscOY
 Dharma Inquiry: https://civilizationemerging.com/dharma-inquiry/ and https://www.youtube.com/watch?v=Pyy3veuvXVE
 Civilization and the Discontented, talk/interview: https://www.youtube.com/watch?v=7eBWG_DgRAo&feature=youtu.be
 
-**Justice / Activist **
+**Justice, Activist **
 https://www.forthehealth.net/
 https://www.thegospelcoalition.org/article/6-ways-christians-wiser-political-engagement/
 Michael Sandel Lectrues (Harvard): https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6
