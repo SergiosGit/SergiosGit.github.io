@@ -85,6 +85,7 @@ https://www.thegospelcoalition.org/article/6-ways-christians-wiser-political-eng
 Michael Sandel Lectrues (Harvard): https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6
 Fair Internet: https://www.go-fair.org/go-fair-initiative/vision-and-strategy/
 Intentional, Inspiring: http://www.globehackers.com/blog
+Gun violence and related activism (collected by Jordan Klepper): https://www.cc.com/topic/jordan-klepper-solves-guns-how-to-help
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5MjQ5NzcxNDYsOTE5MTcwMjgwXX0=
